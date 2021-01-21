@@ -84,6 +84,7 @@ arbol.add(8);
 arbol.add(1);
 arbol.add(3);
 arbol.add(9);
+arbol.add(10);
 
 console.log(arbol); /**los mostramos por consola */
 
